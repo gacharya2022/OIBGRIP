@@ -1,0 +1,70 @@
+body {
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.KcGzRFAQTTFwXCH9enizawHaFj&pid=Api&P=0');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+div{
+    text-align: center;
+    color: whitesmoke;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-size: 50px;
+}
+img{
+    width: 700px;
+    height: 150px;
+    margin-left: 35px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.first{
+    display: inline-block;
+}
+figcaption{
+    color: whitesmoke;
+    font-size: 30px;
+}
+footer{
+    display: inline;
+    color: whitesmoke;
+    text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-linkedin {
+    background: #50606b;
+    color: white;
+}
+.fa-twitter {
+    background: #50606b;
+    color: white;
+}
+.fa-google {
+    background: #50606b;
+    color: white;
+  }
+h2{
+    font-family: cursive;
+}
+p{
+    color: whitesmoke; 
+    font-size: 25px; 
+    text-align: center;
+}
